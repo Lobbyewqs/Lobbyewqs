@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="182" height="38" viewBox="0 0 182 38" role="img" aria-labelledby="title">
+  <title id="title">Steam · My Profile</title>
+  <rect x=".5" y=".5" width="181" height="37" rx="8" fill="#14212d" stroke="#35495c"/>
+  <g fill="none" stroke="#b8d7f5" stroke-width="1.6"><circle cx="29" cy="13" r="5.4"/><circle cx="29" cy="13" r="2.9"/><circle cx="18" cy="25" r="4"/><path d="M19 21l5-7m-2 13l9-8M14 24l-5-2"/></g>
+  <text x="46" y="24" fill="#e6eff7" font-family="'Segoe UI',Arial,sans-serif" font-size="13" font-weight="600">STEAM</text>
+  <path d="M101 10V28" stroke="#35495c"/>
+  <text x="112" y="24" fill="#a9c6df" font-family="'Segoe UI',Arial,sans-serif" font-size="12">Profile ↗</text>
+</svg>

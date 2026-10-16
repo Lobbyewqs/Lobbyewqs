@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="199" height="38" viewBox="0 0 199 38" role="img" aria-labelledby="title">
+  <title id="title">Minecraft · Player</title>
+  <rect x=".5" y=".5" width="198" height="37" rx="8" fill="#172b22" stroke="#385a46"/>
+  <path d="M13 13L23 7L33 13L23 19Z" fill="#a5d98b"/>
+  <path d="M13 13L23 19V31L13 25Z" fill="#71945b"/>
+  <path d="M23 19L33 13V25L23 31Z" fill="#466b49"/>
+  <path d="M13 18L23 24V31L13 25Z" fill="#84664c"/>
+  <path d="M23 24L33 18V25L23 31Z" fill="#5b4a3b"/>
+  <text x="44" y="24" fill="#e3f3e7" font-family="'Segoe UI',Arial,sans-serif" font-size="13" font-weight="600">MINECRAFT</text>
+  <path d="M131 10V28" stroke="#385a46"/>
+  <text x="142" y="24" fill="#acd1af" font-family="'Segoe UI',Arial,sans-serif" font-size="12">Player</text>
+</svg>

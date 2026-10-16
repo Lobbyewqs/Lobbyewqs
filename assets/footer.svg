@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="90" viewBox="0 0 1280 90" role="img" aria-labelledby="title">
+  <title id="title">Keep building. Keep playing.</title>
+  <defs><linearGradient id="line"><stop stop-color="#6baf90" stop-opacity="0"/><stop offset=".5" stop-color="#6baf90" stop-opacity=".55"/><stop offset="1" stop-color="#6baf90" stop-opacity="0"/></linearGradient></defs>
+  <path d="M0 8H1280" stroke="url(#line)"/>
+  <g fill="#79a68e"><rect x="407" y="44" width="7" height="7"/><rect x="418" y="44" width="7" height="7"/><rect x="418" y="55" width="7" height="7"/></g>
+  <text x="649" y="59" text-anchor="middle" fill="#78a18b" font-family="'Segoe UI',Arial,sans-serif" font-size="19" letter-spacing="3">KEEP BUILDING. KEEP PLAYING.</text>
+</svg>
