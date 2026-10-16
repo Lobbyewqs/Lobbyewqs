@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
+  <title id="title">Hey, I'm Lobbyewqs</title>
+  <desc id="desc">A mint green pixel island floating in a dark world. Code, play, create.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0c151c"/><stop offset="1" stop-color="#102b29"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#68e8bc" stop-opacity=".16"/><stop offset="1" stop-color="#68e8bc" stop-opacity="0"/></radialGradient>
+    <linearGradient id="line"><stop stop-color="#6ee7b7" stop-opacity="0"/><stop offset=".5" stop-color="#6ee7b7" stop-opacity=".45"/><stop offset="1" stop-color="#6ee7b7" stop-opacity="0"/></linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#9fe8cc" stroke-opacity=".045"/></pattern>
+    <clipPath id="bounds"><rect width="1280" height="420" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#bounds)">
+    <rect width="1280" height="420" fill="url(#bg)"/>
+    <rect width="1280" height="420" fill="url(#grid)"/>
+    <ellipse cx="1010" cy="235" rx="330" ry="270" fill="url(#glow)"/>
+    <path d="M0 1H1280" stroke="url(#line)" stroke-width="3"/>
+    <g font-family="'Segoe UI',Arial,sans-serif">
+      <rect x="56" y="42" width="177" height="30" rx="15" fill="#162f2d" stroke="#2d5147"/>
+      <circle cx="74" cy="57" r="4" fill="#88e5b9"/>
+      <text x="88" y="62" fill="#abd7c6" font-size="12" font-weight="600" letter-spacing="2">PERSONAL SPACE</text>
+      <text x="58" y="143" fill="#b3c9c7" font-size="26">Hey, I'm</text>
+      <text x="53" y="236" fill="#f0faf5" font-size="91" font-weight="700" letter-spacing="-4">Lobbyewqs<tspan fill="#89edbf">.</tspan></text>
+      <text x="58" y="281" fill="#86cdb4" font-size="17" letter-spacing="3.5">CODE / PLAY / CREATE</text>
+      <path d="M58 325H113" stroke="#71d9ab" stroke-width="3"/>
+      <text x="129" y="331" fill="#8da9a2" font-size="13" letter-spacing="1.4">ONE IDEA. ONE BLOCK. AT A TIME.</text>
+    </g>
+    <g fill="none" stroke="#6ec0a3" stroke-opacity=".18">
+      <path d="M801 293L996 180L1190 293L996 406Z"/>
+      <path d="M826 307L996 209L1165 307"/>
+      <path d="M900 350L1094 237M1093 350L899 237"/>
+    </g>
+    <ellipse cx="996" cy="349" rx="117" ry="22" fill="#061712" opacity=".52"/>
+    <g stroke-linejoin="round">
+      <path d="M858 239L994 160L1130 239L994 318Z" fill="#70ba80"/>
+      <path d="M858 239L994 318V359L858 280Z" fill="#4d5040"/>
+      <path d="M994 318L1130 239V280L994 359Z" fill="#323e35"/>
+      <path d="M858 239L994 318V333L972 321V330L949 317V307L926 294V304L903 291V281L881 268V277L858 264Z" fill="#508f62"/>
+      <path d="M994 318L1130 239V255L1108 268V277L1085 290V280L1062 293V304L1039 317V306L1016 319V331L994 344Z" fill="#376e4c"/>
+      <path d="M903 213L1039 292M949 186L1085 265M903 265L1039 186M949 292L1085 213" stroke="#9fda9b" stroke-opacity=".34" fill="none"/>
+      <path d="M904 239L927 226L950 239L927 252Z" fill="#9acf86"/>
+      <path d="M994 212L1017 199L1040 212L1017 225Z" fill="#86ce86"/>
+      <path d="M1040 265L1063 252L1086 265L1063 278Z" fill="#599f6c"/>
+      <path d="M881 280L904 293V304L881 291ZM926 306L949 319V331L926 318Z" fill="#666048"/>
+      <path d="M1039 333L1062 320V332L1039 345ZM1085 294L1108 281V293L1085 306Z" fill="#495342"/>
+      <path d="M990 175L1006 166L1022 175L1006 184Z" fill="#9e8253"/>
+      <path d="M990 175L1006 184V253L990 244Z" fill="#76583c"/>
+      <path d="M1006 184L1022 175V244L1006 253Z" fill="#543f32"/>
+      <path d="M940 146L1005 108L1070 146L1005 184Z" fill="#82c995"/>
+      <path d="M940 146L1005 184V224L940 186Z" fill="#3f9465"/>
+      <path d="M1005 184L1070 146V186L1005 224Z" fill="#28674b"/>
+      <path d="M957 113L1005 85L1053 113L1005 141Z" fill="#a0dfa4"/>
+      <path d="M957 113L1005 141V171L957 143Z" fill="#64b67e"/>
+      <path d="M1005 141L1053 113V143L1005 171Z" fill="#3d9064"/>
+      <path d="M940 162L956 171V184L940 175ZM972 181L988 190V203L972 194Z" fill="#4fa770"/>
+      <path d="M1021 192L1037 183V196L1021 205Z" fill="#337b56"/>
+    </g>
+    <g>
+      <path d="M830 143L859 126L888 143L859 160Z" fill="#92dbac"/>
+      <path d="M830 143L859 160V191L830 174Z" fill="#4a9a72"/>
+      <path d="M859 160L888 143V174L859 191Z" fill="#306a57"/>
+      <path d="M1130 198L1150 186L1170 198L1150 210Z" fill="#b7d7b3"/>
+      <path d="M1130 198L1150 210V230L1130 218Z" fill="#7aa58d"/>
+      <path d="M1150 210L1170 198V218L1150 230Z" fill="#507f70"/>
+    </g>
+    <g fill="#b5f3d3">
+      <path d="M1153 83h4v8h8v4h-8v8h-4v-8h-8v-4h8Z" opacity=".8"/>
+      <path d="M900 77h3v5h5v3h-5v5h-3v-5h-5v-3h5Z" opacity=".5"/>
+      <rect x="794" y="219" width="5" height="5" opacity=".5"/>
+      <rect x="1187" y="306" width="4" height="4" opacity=".65"/>
+      <rect x="1082" y="63" width="4" height="4" opacity=".45"/>
+    </g>
+    <text x="1174" y="384" fill="#6f9f8e" font-family="monospace" font-size="12" text-anchor="end" letter-spacing="2">WORLD 01</text>
+  </g>
+</svg>
