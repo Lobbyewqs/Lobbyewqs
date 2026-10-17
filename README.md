@@ -27,6 +27,8 @@
 
 ### 🧩 最近的小作品
 
+[知源 KnowSource · 专业知识库问答 Agent](https://github.com/Lobbyewqs/knowsource-agent)：基于 DeepSeek、Chroma 与 BM25 混合检索的中文知识库助手，支持多轮追问、文档索引与来源引用。
+
 [合成大西瓜助手](https://github.com/Lobbyewqs/--dy)：一个用于合成大西瓜的浏览器辅助小工具。
 
 <br />
